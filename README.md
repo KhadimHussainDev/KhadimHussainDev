@@ -24,7 +24,7 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=oyeKhadim&&style=circle)  
+![Profile views counter](https://komarev.com/ghpvc/?username=oyeKhadim&&style=flat-square)  
 
   
 
