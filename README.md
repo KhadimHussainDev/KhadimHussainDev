@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **C++, C#, Python, Html, CSS**
 
-- 📫 How to reach me **oyeKhadim@gmail.com**
+- 📫 Contact me at **oyeKhadim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
