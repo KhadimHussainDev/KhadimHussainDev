@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khadim Hussain</h1>
 <h3 align="center">Talk is Cheep, Let's Code⌨💻.</h3>
 
+<div style="display: flex;
+  justify-content: space-between;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hi+👋,+I'm+Khadim+Hussain.;Talk+is+Cheep,+Let's+Code⌨💻.">
+  <img src="https://media1.giphy.com/media/9rtpurjbqiqZXbBBet/giphy.gif" align = "right">
+</div>
+
+
 - 💬 Ask me about **C++, C#, Python, Html, CSS**
 
 - 📫 Contact me at **oyeKhadim@gmail.com**
