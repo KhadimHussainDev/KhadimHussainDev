@@ -22,7 +22,21 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyekhadim&show_icons=true&locale=en&layout=compact" alt="oyekhadim" /></p>
 
-<br/>  
+
+# 📈 GitHub Activity Graph:
+![Khadim's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=oyeKhadim&hide_border=true&theme=redical)
+
+# 🚀 My Stats
+![Khadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyeKhadim&show_icons=true&theme=aura)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=oyeKhadim&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+# 🐶 My Repos
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyeKhadim&repo=TournamentManagementSystem-Cpp)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyeKhadim&repo=ProShooters)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyeKhadim&repo=BreakOut)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyeKhadim&repo=Calculator-DesktopApplication)
+
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=oyeKhadim&&style=flat-square)  
 
