@@ -4,7 +4,7 @@
 <div style="display: flex;
   justify-content: space-between;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&lines=Hi+👋,+I'm+Khadim+Hussain.;Talk+is+Cheep,+Let's+Code⌨💻.">
-  <img src="https://png.pngtree.com/element_our/20200609/ourmid/pngtree-children-s-software-programming-image_2230761.jpg" align = "right">
+  <img src="https://media.discordapp.net/attachments/738887508590461019/738887963764850718/hello.gif" align = "right">
 </div>
 
 
