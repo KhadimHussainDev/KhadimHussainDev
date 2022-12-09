@@ -7,7 +7,6 @@
   <img src="https://media.discordapp.net/attachments/738887508590461019/738887963764850718/hello.gif" align = "right">
 </div>
 
-
 - 💬 Ask me about **C++, C#, Python, Html, CSS**
 
 - 📫 Contact me at **oyeKhadim@gmail.com**
