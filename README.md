@@ -29,8 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyekhadim&show_icons=true&locale=en&layout=compact" alt="oyekhadim" /></p>
 
 
-# 📈 GitHub Activity Graph:
-![Khadim's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=oyeKhadim&hide_border=true&theme=redical)
+
 
 # 🚀 My Stats
 ![Khadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyeKhadim&show_icons=true&theme=aura)
