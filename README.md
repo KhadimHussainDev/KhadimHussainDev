@@ -34,8 +34,8 @@
 # 🚀 My Stats
 ![Khadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyeKhadim&show_icons=true&theme=aura)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=oyekhadim&theme=dark&hide_border=true&border_radius=10&fire=DD2727&dates=DD1700&stroke=1B5BDD&sideNums=3CDD3D&currStreakNum=DD418D&sideLabels=DD3F42&currStreakLabel=73959D)](https://git.io/streak-stats)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=oyekhadim&theme=dark&hide_border=true&border_radius=10&fire=DD2727&dates=DD1700&stroke=1B5BDD&sideNums=3CDD3D&currStreakNum=DD418D&sideLabels=DD3F42&currStreakLabel=73959D)
+<!-- https://git.io/streak-stats -->
 # 🐶 My Repos
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyeKhadim&repo=TournamentManagementSystem-Cpp)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyeKhadim&repo=ProShooters)
