@@ -41,7 +41,18 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyeKhadim&repo=ProShooters)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyeKhadim&repo=BreakOut)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oyeKhadim&repo=Calculator-DesktopApplication)
+## 🏆 GitHub Trophies
 
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=oyeKhadim&theme=radical&no-frame=false&no-bg=true&margin-w=2)
+
+</div>
+<br/>  
+
+## Latest Tweet 
+
+![](https://gtce.itsvg.in/api?username=oyeKhadim)
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=oyeKhadim&&style=flat-square)  
