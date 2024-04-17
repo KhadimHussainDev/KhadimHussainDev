@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C++, C#, Python, JavaScript**
 
-- 📫 Contact me at **KhadimHussainDev@gmail.com**
+- 📫 Contact me at **DevKhadimHussain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
